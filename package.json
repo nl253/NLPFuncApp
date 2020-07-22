@@ -45,7 +45,7 @@
   "dependencies": {
     "highlight.js": "^9.17.1",
     "marked": "^0.8.0",
-    "ajv": "^6.10.2",
+    "ajv": "^6.12.3",
     "compromise": "^12.2.1",
     "html-to-text": "^5.1.1",
     "natural": "^0.6.3"
